@@ -22,8 +22,14 @@ base CUDA modules for using GPUs as radio Rx/Tx beacons
 
 
 
->> 
+>
+>
 >> [rX/tX]
+
+![Uploading Screenshot 2026-07-06 at 12.43.34.png…]()
+
+
+
 >> send radio signals via a CUDA kernel
 
 
@@ -31,3 +37,6 @@ base CUDA modules for using GPUs as radio Rx/Tx beacons
 <img width="1196" height="1044" alt="Screenshot 2026-04-18 at 21 10 14" src="https://github.com/user-attachments/assets/228cd1b9-1d7f-4a19-8cab-600b0f285a88" />
 
 
+
+
+<img width="423" height="309" alt="Rotman_lens_diagram" src="https://github.com/user-attachments/assets/56c47f26-8365-4efa-b8e5-9c6f7b7396c3" />
